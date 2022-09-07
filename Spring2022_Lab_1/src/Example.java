@@ -1,5 +1,5 @@
-class Example
-{
+class Example {
+	
   static private int x;
   final private String name;
   private int[] nums;
